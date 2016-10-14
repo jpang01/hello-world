@@ -16,5 +16,6 @@ https://bookdown.org/yihui/bookdown/components.html
 ![Bar](http://www.google.com.au/images/nav_logo7.png)
 
 
-![para](https://www.dropbox.com/s/tkzbvp58qk3l5lo/parallel1.svg) "parallel tasks"
+![para](https://github.com/jpang01/eventBack/blob/master/parallel1.svg) "parallel tasks"
+
 
